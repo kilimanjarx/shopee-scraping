@@ -1,5 +1,3 @@
-# shopee-scraping
-
 # Shopee Web Scraper
 
 - A simple web scraper to extract listings data on https://shopee.com.my/shocking_sale and get the result through email
