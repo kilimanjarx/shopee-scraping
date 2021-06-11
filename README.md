@@ -1,6 +1,6 @@
 # Shopee Web Scraper
 
-- A simple web scraper to extract listings data on https://shopee.com.my/shocking_sale and get the result through email
+- A simple web scraper to extract listings data of item that I wanted to buy on https://shopee.com.my/shocking_sale and get the result through email
 
 Disclaimer: This project is purely for learning purposes only
 
@@ -28,7 +28,11 @@ Install dependencies
 ```bash
   pip install -r requirements.txt
 ```
+Insert the item you want to search in keyword.txt for example:
 
+```bash
+  Air Fryer
+```
 Run the script
 
 ```bash
